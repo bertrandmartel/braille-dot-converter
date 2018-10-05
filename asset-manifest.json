@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.17bbefb3.chunk.css",
-  "main.js": "/static/js/main.076d92d0.chunk.js",
-  "main.js.map": "/static/js/main.076d92d0.chunk.js.map",
-  "static/js/1.2436b0e0.chunk.js": "/static/js/1.2436b0e0.chunk.js",
-  "static/js/1.2436b0e0.chunk.js.map": "/static/js/1.2436b0e0.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.17bbefb3.chunk.css.map": "/static/css/main.17bbefb3.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.4c8b67e49d5959741827b67d0a52dc84.js": "/precache-manifest.4c8b67e49d5959741827b67d0a52dc84.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/braille-dot-converter/static/css/main.17bbefb3.chunk.css",
+  "main.js": "/braille-dot-converter/static/js/main.053f51df.chunk.js",
+  "main.js.map": "/braille-dot-converter/static/js/main.053f51df.chunk.js.map",
+  "static/js/1.2436b0e0.chunk.js": "/braille-dot-converter/static/js/1.2436b0e0.chunk.js",
+  "static/js/1.2436b0e0.chunk.js.map": "/braille-dot-converter/static/js/1.2436b0e0.chunk.js.map",
+  "runtime~main.js": "/braille-dot-converter/static/js/runtime~main.d56db14d.js",
+  "runtime~main.js.map": "/braille-dot-converter/static/js/runtime~main.d56db14d.js.map",
+  "static/css/main.17bbefb3.chunk.css.map": "/braille-dot-converter/static/css/main.17bbefb3.chunk.css.map",
+  "index.html": "/braille-dot-converter/index.html",
+  "precache-manifest.197da131415d271cb36fbf1c53e1bd79.js": "/braille-dot-converter/precache-manifest.197da131415d271cb36fbf1c53e1bd79.js",
+  "service-worker.js": "/braille-dot-converter/service-worker.js"
 }
