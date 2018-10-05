@@ -7,7 +7,7 @@ React application converting braille pattern to binary/hex easily, bit index is 
 
 ### [Live Application](https://bertrandmartel.github.io/braille-dot-converter)
 
-![screenshot](https://user-images.githubusercontent.com/5183022/46512525-b8eabe00-c854-11e8-985a-124f45a4853e.png)
+[![screenshot](https://user-images.githubusercontent.com/5183022/46512525-b8eabe00-c854-11e8-985a-124f45a4853e.png)](http://bertrandmartel.github.io/braille-dot-converter)
 
 This project was initially created to easily find all [Braille unicode pattern](http://www.unicode.org/charts/PDF/U2800.pdf) to use for [Metec Braille line 20 cell](http://web.metec-ag.de/downloads/braille-line-20cell.pdf). This device uses piezo actuators technology to display Braille pattern. The official pin order 123456 is according to : 
 
